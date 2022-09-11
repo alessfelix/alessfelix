@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alessfelix
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Basic HTML
-- 💞️ I’m looking to collaborate on companies.
+- 🌱 I’m currently learning Python and SAP
+- 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me https://www.linkedin.com/in/alessandra-felix-de-lucena-12bab51b0/
 
 <!---
